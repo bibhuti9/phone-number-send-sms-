@@ -1,36 +1,58 @@
 # phone-number-send-sms-
-this project is based on send a sms code to your mobile number at real time 
+this project is based on send a sms code to your phone number at real time 
 
 
 hey hello guys this project gone awesome for you for you project. 
 
-if you want to send a sms to you client or user when they login or sign up 
-through the mobile number then this code gone help you to send a sms at real time
+if you want to send a sms to your client or user when they login or sign up 
+through the phone number then this code gone help you to send a sms at real time
 
-step 1:
+
+# 🤔. how to create this 🙂 follow my steps for create this.. 
+
+
+### step 1:
 
 goto firebase 
 make a project
 
-step 2:
+### step 2:
 
 copy your firebase script after make a project. 
 
-step 3:
+### step 3:
 
-goto menu and click authorities at the top left side menu. 
+goto menu and click authentication at the top left side menu. 
+and goto the sign in method 
 
-enable phone on web icon. 
+👉 enable phone on web icon. 
+ 
+### step 4 : 
 
-step 4 : 
-
-just your phone sms is created.. 
+👍 now your phone sms is created.. 
 
 
-step 5: 
+### step 5: 
 
-goto the code that I give 
+goto my  code that I give 
 
-and paste your firebase that you copy in code. 
+follow at carefully 
+
+
+
+and paste your firebase script code that you copy in my code comment like
+
+# <script>
+  // Your web app's Firebase configuration
+  
+  👉 your firebase script code 
+  
+</script>
 
 now your code is ready.. 
+
+
+if any error or difficulty occurred then contact me at 
+
+# bibhutiswain990@gmail.com gmial any time i give my response 
+
